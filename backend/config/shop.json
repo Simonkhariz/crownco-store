@@ -36,7 +36,8 @@
       "26 inch",
       "28 inch"
     ],
-    "help": "Length is measured with the hair pulled straight, from the crown to the tips."
+    "help": "Length is measured with the hair pulled straight, from the crown to the tips.",
+    "helpByCategory": {}
   },
   "option2": {
     "label": "Colour",
@@ -50,6 +51,7 @@
     "label": "Texture",
     "plural": "Textures",
     "short": "Texture",
+    "heading": "{value} hair",
     "browseTitle": "SHOP BY TEXTURE",
     "values": [
       "Straight",
