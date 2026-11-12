@@ -1,0 +1,102 @@
+{
+  "key": "crownco",
+  "name": "CROWN.CO",
+  "kind": "online hair store",
+  "title": "CROWN.CO | Wigs, Bundles and Hair Care",
+  "description": "Wigs, bundles, closures, braiding hair and hair care, chosen by length, colour and texture and delivered across Nigeria.",
+  "tagline": "Wigs, bundles and hair care you can trust, delivered across Nigeria.",
+  "hero": {
+    "title": "HAIR THAT TURNS HEADS",
+    "subtitle": "Wigs, bundles, closures and braiding hair in the lengths, colours and textures you love. Every order is confirmed before it ships.",
+    "cta": "Shop Now",
+    "image": "/images/hero/hero.webp",
+    "cutout": false
+  },
+  "theme": {
+    "accent": "#5A1F2B",
+    "accentHover": "#74303D",
+    "accentInk": "#ffffff",
+    "surface": "#F5EFEE",
+    "card": "#F5F0EC",
+    "hero": "#F6F0EC"
+  },
+  "option1": {
+    "label": "Length",
+    "plural": "Lengths",
+    "none": "Standard",
+    "choices": [
+      "10 inch",
+      "12 inch",
+      "14 inch",
+      "16 inch",
+      "18 inch",
+      "20 inch",
+      "22 inch",
+      "24 inch",
+      "26 inch",
+      "28 inch"
+    ],
+    "help": "Length is measured with the hair pulled straight, from the crown to the tips."
+  },
+  "option2": {
+    "label": "Colour",
+    "plural": "Colours",
+    "none": "Default",
+    "swatch": true,
+    "placeholder": "e.g. Natural Black"
+  },
+  "style": {
+    "enabled": true,
+    "label": "Texture",
+    "plural": "Textures",
+    "short": "Texture",
+    "browseTitle": "SHOP BY TEXTURE",
+    "values": [
+      "Straight",
+      "Body Wave",
+      "Deep Wave",
+      "Curly",
+      "Kinky"
+    ],
+    "images": {
+      "straight": "/images/styles/straight.webp",
+      "body wave": "/images/styles/body-wave.webp",
+      "deep wave": "/images/styles/deep-wave.webp",
+      "curly": "/images/styles/curly.webp",
+      "kinky": "/images/styles/kinky.webp"
+    }
+  },
+  "specs": {
+    "label": "Hair details",
+    "suggested": [
+      "Hair type",
+      "Density",
+      "Lace",
+      "Cap size",
+      "Care"
+    ]
+  },
+  "features": {
+    "warranty": false,
+    "heavyDelivery": false,
+    "ageCheck": false
+  },
+  "ageCheck": {
+    "minAge": 18,
+    "categories": []
+  },
+  "wording": {
+    "featured": "FEATURED",
+    "newArrivals": "NEW ARRIVALS",
+    "topSelling": "TOP SELLING",
+    "categoriesEyebrow": "Shop the Range",
+    "categoriesTitle": "EXPLORE BY CATEGORY",
+    "categoriesCta": "Browse All Collections",
+    "emptyCart": "Explore our wigs, bundles and hair care and find your next look.",
+    "contactIntro": "Questions about an order, a length or a return? Reach us using the details below.",
+    "searchExampleShort": "wig",
+    "searchExampleLong": "body wave lace front wig",
+    "descriptionHint": "Hair type, density, lace, how to care for it…",
+    "categoryHint": "/category?cat=wigs"
+  }
+}

@@ -1,0 +1,1481 @@
+{
+  "settings": {
+    "store_name": "CROWN.CO",
+    "store_contact_email": "hello@crownco.example",
+    "store_contact_phone": "+2348000000103",
+    "store_origin_address": "8 Allen Avenue, Ikeja",
+    "store_origin_city": "Lagos",
+    "store_origin_state": "Lagos",
+    "default_product_rating": "4.7",
+    "storefront_brands": ""
+  },
+  "zones": [
+    {
+      "name": "Lagos",
+      "states": [
+        "Lagos"
+      ],
+      "fee": 2500,
+      "estimated_days": "1 to 2 days",
+      "items_included": 3,
+      "extra_item_fee": 300,
+      "heavy_item_fee": 0
+    },
+    {
+      "name": "South West",
+      "states": [
+        "Ogun",
+        "Oyo",
+        "Osun",
+        "Ondo",
+        "Ekiti"
+      ],
+      "fee": 3500,
+      "estimated_days": "2 to 3 days",
+      "items_included": 3,
+      "extra_item_fee": 400,
+      "heavy_item_fee": 0
+    },
+    {
+      "name": "Abuja and Port Harcourt",
+      "states": [
+        "FCT",
+        "Rivers"
+      ],
+      "fee": 4500,
+      "estimated_days": "2 to 4 days",
+      "items_included": 3,
+      "extra_item_fee": 500,
+      "heavy_item_fee": 0
+    },
+    {
+      "name": "Rest of Nigeria",
+      "states": [
+        "*"
+      ],
+      "fee": 6000,
+      "estimated_days": "3 to 6 days",
+      "items_included": 3,
+      "extra_item_fee": 600,
+      "heavy_item_fee": 0
+    }
+  ],
+  "promotions": [
+    {
+      "code": "WELCOME10",
+      "type": "percentage",
+      "value": 10,
+      "min_order": 0,
+      "max_discount": 10000,
+      "description": "10% off your first order",
+      "show_on_homepage": true
+    },
+    {
+      "code": "SAVE5K",
+      "type": "fixed",
+      "value": 5000,
+      "min_order": 50000,
+      "max_discount": null,
+      "description": "₦5,000 off orders from ₦50,000",
+      "show_on_homepage": false
+    },
+    {
+      "code": "CROWN15",
+      "type": "percentage",
+      "value": 15,
+      "min_order": 150000,
+      "max_discount": 30000,
+      "description": "15% off orders from ₦150,000",
+      "show_on_homepage": false
+    }
+  ],
+  "categories": [
+    {
+      "name": "Wigs",
+      "slug": "wigs",
+      "description": "Ready to wear lace wigs, from short bobs to long styles.",
+      "image": "cat-wigs.webp"
+    },
+    {
+      "name": "Bundles",
+      "slug": "bundles",
+      "description": "Human hair bundles sold per piece in ten lengths.",
+      "image": "cat-bundles.webp"
+    },
+    {
+      "name": "Closures & Frontals",
+      "slug": "closures-frontals",
+      "description": "Lace closures and frontals to finish a sew in or a custom wig.",
+      "image": "cat-closures-frontals.webp"
+    },
+    {
+      "name": "Braiding Hair",
+      "slug": "braiding-hair",
+      "description": "Soft braiding hair for box braids, twists and crochet styles.",
+      "image": "cat-braiding-hair.webp"
+    },
+    {
+      "name": "Hair Care",
+      "slug": "hair-care",
+      "description": "Shampoo, conditioner and edge control for wigs and natural hair.",
+      "image": "cat-hair-care.webp"
+    },
+    {
+      "name": "Tools & Accessories",
+      "slug": "tools-accessories",
+      "description": "Caps, brushes, bands and stands for fitting and styling.",
+      "image": "cat-tools-accessories.webp"
+    }
+  ],
+  "banners": [
+    {
+      "title": "WIGS READY TO WEAR",
+      "subtitle": "Lace wigs in every length and texture. Pre-plucked, bleached knots and ready to wear the day it arrives.",
+      "cta_text": "Shop wigs",
+      "cta_url": "/category?cat=wigs",
+      "image": "banner-1.webp"
+    },
+    {
+      "title": "BUNDLES SOLD BY THE PIECE",
+      "subtitle": "Straight, body wave, deep wave and curly. Pick your length and build your install.",
+      "cta_text": "Shop bundles",
+      "cta_url": "/category?cat=bundles",
+      "image": "banner-2.webp"
+    },
+    {
+      "title": "BRAIDING HAIR FROM ₦4,500",
+      "subtitle": "Soft, light braiding hair in six colours. Stock up for your next set.",
+      "cta_text": "Shop braiding hair",
+      "cta_url": "/category?cat=braiding-hair",
+      "image": "banner-3.webp"
+    }
+  ],
+  "products": [
+    {
+      "name": "Silk Straight Lace Wig",
+      "slug": "silk-straight-lace-wig",
+      "category": "wigs",
+      "description": "A smooth, bone straight wig on a 13x4 HD lace front. The lace melts into most skin tones and the hairline is pre-plucked. Comes ready to wear.",
+      "price": 120000,
+      "original_price": null,
+      "style": "Straight",
+      "featured": true,
+      "flash_deal": false,
+      "rating_start": 4.8,
+      "units_sold": 142,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Hair type",
+          "value": "100% human hair"
+        },
+        {
+          "name": "Density",
+          "value": "180%"
+        },
+        {
+          "name": "Lace",
+          "value": "13x4 HD lace front"
+        },
+        {
+          "name": "Cap size",
+          "value": "Medium, adjustable straps"
+        },
+        {
+          "name": "Can be dyed",
+          "value": "Yes, to darker shades"
+        },
+        {
+          "name": "Care",
+          "value": "Wash every 2 to 3 weeks"
+        }
+      ],
+      "images": [
+        "p-silk-straight-lace-wig-1.webp",
+        "p-silk-straight-lace-wig-2.webp"
+      ],
+      "variants": [
+        {
+          "option1": "14 inch",
+          "option2": "Natural Black",
+          "hex": "#1B1B1B",
+          "price": null,
+          "stock": 14
+        },
+        {
+          "option1": "14 inch",
+          "option2": "Dark Brown",
+          "hex": "#3B2416",
+          "price": null,
+          "stock": 9
+        },
+        {
+          "option1": "18 inch",
+          "option2": "Natural Black",
+          "hex": "#1B1B1B",
+          "price": 165000,
+          "stock": 3
+        },
+        {
+          "option1": "22 inch",
+          "option2": "Natural Black",
+          "hex": "#1B1B1B",
+          "price": 230000,
+          "stock": 8
+        },
+        {
+          "option1": "26 inch",
+          "option2": "Honey Blonde",
+          "hex": "#C99A4B",
+          "price": 320000,
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "name": "Body Wave Frontal Wig",
+      "slug": "body-wave-frontal-wig",
+      "category": "wigs",
+      "description": "Soft, loose waves on a 13x6 transparent lace frontal. Full at the ends and easy to style with a curling wand. A good everyday wig for work and events.",
+      "price": 145000,
+      "original_price": null,
+      "style": "Body Wave",
+      "featured": true,
+      "flash_deal": false,
+      "rating_start": 4.9,
+      "units_sold": 171,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Hair type",
+          "value": "100% human hair"
+        },
+        {
+          "name": "Density",
+          "value": "200%"
+        },
+        {
+          "name": "Lace",
+          "value": "13x6 transparent frontal"
+        },
+        {
+          "name": "Cap size",
+          "value": "Medium, adjustable straps"
+        },
+        {
+          "name": "Can be dyed",
+          "value": "Yes"
+        },
+        {
+          "name": "Care",
+          "value": "Wash every 2 to 3 weeks"
+        }
+      ],
+      "images": [
+        "p-body-wave-frontal-wig-1.webp",
+        "p-body-wave-frontal-wig-2.webp"
+      ],
+      "variants": [
+        {
+          "option1": "16 inch",
+          "option2": "Natural Black",
+          "hex": "#1B1B1B",
+          "price": null,
+          "stock": 12
+        },
+        {
+          "option1": "20 inch",
+          "option2": "Natural Black",
+          "hex": "#1B1B1B",
+          "price": 205000,
+          "stock": 0
+        },
+        {
+          "option1": "24 inch",
+          "option2": "Natural Black",
+          "hex": "#1B1B1B",
+          "price": 290000,
+          "stock": 6
+        },
+        {
+          "option1": "28 inch",
+          "option2": "Natural Black",
+          "hex": "#1B1B1B",
+          "price": 420000,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "name": "Deep Wave Bob Wig",
+      "slug": "deep-wave-bob-wig",
+      "category": "wigs",
+      "description": "A short bob with defined deep waves on a 4x4 lace closure. Light on the head and quick to put on. Good if you want a style that is easy to manage.",
+      "price": 85000,
+      "original_price": 110000,
+      "style": "Deep Wave",
+      "featured": false,
+      "flash_deal": true,
+      "rating_start": null,
+      "units_sold": 96,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Hair type",
+          "value": "100% human hair"
+        },
+        {
+          "name": "Density",
+          "value": "150%"
+        },
+        {
+          "name": "Lace",
+          "value": "4x4 lace closure"
+        },
+        {
+          "name": "Cap size",
+          "value": "Small to medium, adjustable straps"
+        },
+        {
+          "name": "Can be dyed",
+          "value": "Yes"
+        }
+      ],
+      "images": [
+        "p-deep-wave-bob-wig-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "10 inch",
+          "option2": "Natural Black",
+          "hex": "#1B1B1B",
+          "price": null,
+          "stock": 20
+        },
+        {
+          "option1": "10 inch",
+          "option2": "Burgundy",
+          "hex": "#6D1F2C",
+          "price": null,
+          "stock": 11
+        },
+        {
+          "option1": "12 inch",
+          "option2": "Natural Black",
+          "hex": "#1B1B1B",
+          "price": 98000,
+          "stock": 15
+        },
+        {
+          "option1": "12 inch",
+          "option2": "Ombre Brown",
+          "hex": "#7A4B2A",
+          "price": 98000,
+          "stock": 7
+        },
+        {
+          "option1": "14 inch",
+          "option2": "Natural Black",
+          "hex": "#1B1B1B",
+          "price": 115000,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "name": "Glueless Curly Wig",
+      "slug": "glueless-curly-wig",
+      "category": "wigs",
+      "description": "Bouncy curls on a glueless cap with a pre-cut lace front. Slip it on, tighten the band and go. Needs no glue, gel or tape.",
+      "price": 135000,
+      "original_price": null,
+      "style": "Curly",
+      "featured": true,
+      "flash_deal": false,
+      "rating_start": 4.7,
+      "units_sold": 118,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Hair type",
+          "value": "100% human hair"
+        },
+        {
+          "name": "Density",
+          "value": "200%"
+        },
+        {
+          "name": "Lace",
+          "value": "Pre-cut 5x5 HD lace"
+        },
+        {
+          "name": "Cap size",
+          "value": "Medium, elastic band and combs"
+        },
+        {
+          "name": "Can be dyed",
+          "value": "Yes, to darker shades"
+        },
+        {
+          "name": "Care",
+          "value": "Wash every 2 weeks"
+        }
+      ],
+      "images": [
+        "p-glueless-curly-wig-1.webp",
+        "p-glueless-curly-wig-2.webp"
+      ],
+      "variants": [
+        {
+          "option1": "14 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 10
+        },
+        {
+          "option1": "18 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": 185000,
+          "stock": 9
+        },
+        {
+          "option1": "22 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": 260000,
+          "stock": 6
+        },
+        {
+          "option1": "26 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": 360000,
+          "stock": 12
+        }
+      ]
+    },
+    {
+      "name": "Kinky Coily U-Part Wig",
+      "slug": "kinky-coily-upart-wig",
+      "category": "wigs",
+      "description": "A kinky coily wig with a U-shaped opening, so you leave out some of your own hair for a natural blend. It looks close to natural 4C hair.",
+      "price": 98000,
+      "original_price": 118000,
+      "style": "Kinky",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 63,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Hair type",
+          "value": "100% human hair"
+        },
+        {
+          "name": "Density",
+          "value": "180%"
+        },
+        {
+          "name": "Lace",
+          "value": "U-part, no lace"
+        },
+        {
+          "name": "Cap size",
+          "value": "Medium, adjustable straps"
+        },
+        {
+          "name": "Can be dyed",
+          "value": "Yes, to darker shades"
+        }
+      ],
+      "images": [
+        "p-kinky-coily-upart-wig-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "12 inch",
+          "option2": "Natural Black",
+          "hex": "#1B1B1B",
+          "price": null,
+          "stock": 14
+        },
+        {
+          "option1": "16 inch",
+          "option2": "Natural Black",
+          "hex": "#1B1B1B",
+          "price": 140000,
+          "stock": 10
+        },
+        {
+          "option1": "16 inch",
+          "option2": "Dark Brown",
+          "hex": "#3B2416",
+          "price": 140000,
+          "stock": 6
+        },
+        {
+          "option1": "20 inch",
+          "option2": "Natural Black",
+          "hex": "#1B1B1B",
+          "price": 195000,
+          "stock": 9
+        }
+      ]
+    },
+    {
+      "name": "Straight Bundle Hair",
+      "slug": "straight-bundle-hair",
+      "category": "bundles",
+      "description": "Single donor straight hair, sold as one bundle of about 100g. It takes colour and heat well. Buy three for a full head.",
+      "price": 42000,
+      "original_price": 52000,
+      "style": "Straight",
+      "featured": true,
+      "flash_deal": true,
+      "rating_start": 4.8,
+      "units_sold": 175,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Hair type",
+          "value": "100% human hair"
+        },
+        {
+          "name": "Weight",
+          "value": "100g per bundle"
+        },
+        {
+          "name": "Weft",
+          "value": "Double machine weft"
+        },
+        {
+          "name": "Can be dyed",
+          "value": "Yes"
+        },
+        {
+          "name": "Care",
+          "value": "Wash gently, air dry"
+        }
+      ],
+      "images": [
+        "p-straight-bundle-hair-1.webp",
+        "p-straight-bundle-hair-2.webp"
+      ],
+      "variants": [
+        {
+          "option1": "10 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 30
+        },
+        {
+          "option1": "14 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": 58000,
+          "stock": 22
+        },
+        {
+          "option1": "18 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": 82000,
+          "stock": 16
+        },
+        {
+          "option1": "22 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": 115000,
+          "stock": 9
+        },
+        {
+          "option1": "26 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": 160000,
+          "stock": 7
+        }
+      ]
+    },
+    {
+      "name": "Body Wave Bundle Hair",
+      "slug": "body-wave-bundle-hair",
+      "category": "bundles",
+      "description": "Soft body wave bundle with a natural curl pattern that lasts after washing. Little shedding and a full weft. Sold per bundle.",
+      "price": 48000,
+      "original_price": null,
+      "style": "Body Wave",
+      "featured": true,
+      "flash_deal": false,
+      "rating_start": 4.7,
+      "units_sold": 152,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Hair type",
+          "value": "100% human hair"
+        },
+        {
+          "name": "Weight",
+          "value": "100g per bundle"
+        },
+        {
+          "name": "Weft",
+          "value": "Double machine weft"
+        },
+        {
+          "name": "Can be dyed",
+          "value": "Yes"
+        },
+        {
+          "name": "Care",
+          "value": "Wash gently, air dry"
+        }
+      ],
+      "images": [
+        "p-body-wave-bundle-hair-1.webp",
+        "p-body-wave-bundle-hair-2.webp"
+      ],
+      "variants": [
+        {
+          "option1": "12 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 25
+        },
+        {
+          "option1": "16 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": 68000,
+          "stock": 18
+        },
+        {
+          "option1": "20 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": 95000,
+          "stock": 12
+        },
+        {
+          "option1": "24 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": 130000,
+          "stock": 7
+        }
+      ]
+    },
+    {
+      "name": "Deep Wave Bundle Hair",
+      "slug": "deep-wave-bundle-hair",
+      "category": "bundles",
+      "description": "Defined deep waves that hold their shape through a wash. Good for sew ins and for making your own wig. Sold per bundle.",
+      "price": 52000,
+      "original_price": null,
+      "style": "Deep Wave",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 81,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Hair type",
+          "value": "100% human hair"
+        },
+        {
+          "name": "Weight",
+          "value": "100g per bundle"
+        },
+        {
+          "name": "Weft",
+          "value": "Double machine weft"
+        },
+        {
+          "name": "Can be dyed",
+          "value": "Yes"
+        }
+      ],
+      "images": [
+        "p-deep-wave-bundle-hair-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "12 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 14
+        },
+        {
+          "option1": "16 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": 74000,
+          "stock": 0
+        },
+        {
+          "option1": "20 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": 102000,
+          "stock": 10
+        },
+        {
+          "option1": "24 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": 140000,
+          "stock": 6
+        }
+      ]
+    },
+    {
+      "name": "Curly Bundle Hair",
+      "slug": "curly-bundle-hair",
+      "category": "bundles",
+      "description": "Springy curly bundle that keeps its pattern with a little water and leave-in. Sold per bundle of about 100g.",
+      "price": 46000,
+      "original_price": null,
+      "style": "Curly",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 57,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Hair type",
+          "value": "100% human hair"
+        },
+        {
+          "name": "Weight",
+          "value": "100g per bundle"
+        },
+        {
+          "name": "Weft",
+          "value": "Double machine weft"
+        },
+        {
+          "name": "Can be dyed",
+          "value": "Yes, to darker shades"
+        },
+        {
+          "name": "Care",
+          "value": "Wet and scrunch to refresh curls"
+        }
+      ],
+      "images": [
+        "p-curly-bundle-hair-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "10 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 18
+        },
+        {
+          "option1": "14 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": 62000,
+          "stock": 15
+        },
+        {
+          "option1": "18 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": 86000,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "name": "HD Lace Closure 4x4",
+      "slug": "hd-lace-closure-4x4",
+      "category": "closures-frontals",
+      "description": "A thin 4x4 HD lace closure with a knotted, pre-bleached parting area. Matches the bundles in our shop. Free part, middle part or side part.",
+      "price": 30000,
+      "original_price": 38000,
+      "style": "Straight",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 88,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Hair type",
+          "value": "100% human hair"
+        },
+        {
+          "name": "Lace",
+          "value": "4x4 HD lace"
+        },
+        {
+          "name": "Part",
+          "value": "Free part"
+        },
+        {
+          "name": "Can be dyed",
+          "value": "Yes"
+        },
+        {
+          "name": "Care",
+          "value": "Wash gently, air dry"
+        }
+      ],
+      "images": [
+        "p-hd-lace-closure-4x4-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "10 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 20
+        },
+        {
+          "option1": "14 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": 38000,
+          "stock": 16
+        },
+        {
+          "option1": "18 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": 50000,
+          "stock": 11
+        }
+      ]
+    },
+    {
+      "name": "Body Wave Frontal 13x4",
+      "slug": "body-wave-frontal-13x4",
+      "category": "closures-frontals",
+      "description": "Ear to ear lace frontal in a soft body wave. The hairline is pre-plucked with baby hairs left in. Pairs with three bundles for a full install.",
+      "price": 55000,
+      "original_price": null,
+      "style": "Body Wave",
+      "featured": true,
+      "flash_deal": false,
+      "rating_start": 4.8,
+      "units_sold": 109,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Hair type",
+          "value": "100% human hair"
+        },
+        {
+          "name": "Lace",
+          "value": "13x4 transparent lace"
+        },
+        {
+          "name": "Hairline",
+          "value": "Pre-plucked with baby hairs"
+        },
+        {
+          "name": "Can be dyed",
+          "value": "Yes"
+        },
+        {
+          "name": "Care",
+          "value": "Wash gently, air dry"
+        }
+      ],
+      "images": [
+        "p-body-wave-frontal-13x4-1.webp",
+        "p-body-wave-frontal-13x4-2.webp"
+      ],
+      "variants": [
+        {
+          "option1": "12 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 4
+        },
+        {
+          "option1": "16 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": 72000,
+          "stock": 13
+        },
+        {
+          "option1": "20 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": 90000,
+          "stock": 12
+        },
+        {
+          "option1": "24 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": 110000,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "name": "Deep Wave Closure 5x5",
+      "slug": "deep-wave-closure-5x5",
+      "category": "closures-frontals",
+      "description": "A wider 5x5 closure with deep waves, so you can part it further each way. The lace is soft and sits flat.",
+      "price": 42000,
+      "original_price": null,
+      "style": "Deep Wave",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 34,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Hair type",
+          "value": "100% human hair"
+        },
+        {
+          "name": "Lace",
+          "value": "5x5 HD lace"
+        },
+        {
+          "name": "Part",
+          "value": "Free part"
+        },
+        {
+          "name": "Can be dyed",
+          "value": "Yes"
+        }
+      ],
+      "images": [
+        "p-deep-wave-closure-5x5-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "12 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 12
+        },
+        {
+          "option1": "16 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": 56000,
+          "stock": 10
+        },
+        {
+          "option1": "20 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": 74000,
+          "stock": 7
+        }
+      ]
+    },
+    {
+      "name": "Jumbo Braiding Hair",
+      "slug": "jumbo-braiding-hair",
+      "category": "braiding-hair",
+      "description": "Soft, light synthetic braiding hair for jumbo and box braids. Does not itch and seals well with hot water. Sold per pack.",
+      "price": 4500,
+      "original_price": null,
+      "style": "Straight",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": 4.6,
+      "units_sold": 180,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Hair type",
+          "value": "Synthetic fibre"
+        },
+        {
+          "name": "Pack",
+          "value": "One pack, about 100g"
+        },
+        {
+          "name": "Finish",
+          "value": "Soft, low shine"
+        },
+        {
+          "name": "Can be dyed",
+          "value": "No"
+        },
+        {
+          "name": "Care",
+          "value": "Seal ends in hot water"
+        }
+      ],
+      "images": [
+        "p-jumbo-braiding-hair-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "20 inch",
+          "option2": "Natural Black",
+          "hex": "#1B1B1B",
+          "price": null,
+          "stock": 60
+        },
+        {
+          "option1": "20 inch",
+          "option2": "Dark Brown",
+          "hex": "#3B2416",
+          "price": null,
+          "stock": 40
+        },
+        {
+          "option1": "26 inch",
+          "option2": "Natural Black",
+          "hex": "#1B1B1B",
+          "price": 5800,
+          "stock": 4
+        },
+        {
+          "option1": "26 inch",
+          "option2": "Burgundy",
+          "hex": "#6D1F2C",
+          "price": 5800,
+          "stock": 22
+        },
+        {
+          "option1": "28 inch",
+          "option2": "Honey Blonde",
+          "hex": "#C99A4B",
+          "price": 6500,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "name": "Pre-stretched Braiding Hair",
+      "slug": "pre-stretched-braiding-hair",
+      "category": "braiding-hair",
+      "description": "Pre-stretched braiding hair with tapered ends, so you skip the stretching and save time. Lightweight and easy to part.",
+      "price": 6000,
+      "original_price": 8000,
+      "style": "Straight",
+      "featured": false,
+      "flash_deal": true,
+      "rating_start": 4.7,
+      "units_sold": 164,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Hair type",
+          "value": "Synthetic fibre"
+        },
+        {
+          "name": "Pack",
+          "value": "One pack, about 75g"
+        },
+        {
+          "name": "Finish",
+          "value": "Tapered ends"
+        },
+        {
+          "name": "Can be dyed",
+          "value": "No"
+        },
+        {
+          "name": "Care",
+          "value": "Seal ends in hot water"
+        }
+      ],
+      "images": [
+        "p-pre-stretched-braiding-hair-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "24 inch",
+          "option2": "Natural Black",
+          "hex": "#1B1B1B",
+          "price": null,
+          "stock": 50
+        },
+        {
+          "option1": "24 inch",
+          "option2": "613 Blonde",
+          "hex": "#E8D9A8",
+          "price": null,
+          "stock": 35
+        },
+        {
+          "option1": "24 inch",
+          "option2": "Ombre Brown",
+          "hex": "#7A4B2A",
+          "price": null,
+          "stock": 28
+        },
+        {
+          "option1": "28 inch",
+          "option2": "Natural Black",
+          "hex": "#1B1B1B",
+          "price": 7200,
+          "stock": 30
+        }
+      ]
+    },
+    {
+      "name": "Kinky Twist Crochet Hair",
+      "slug": "kinky-twist-crochet-hair",
+      "category": "braiding-hair",
+      "description": "Pre-twisted crochet hair with a kinky texture. Loop it onto your cornrows with a latch hook for a quick twist style.",
+      "price": 8500,
+      "original_price": null,
+      "style": "Kinky",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 72,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Hair type",
+          "value": "Synthetic fibre"
+        },
+        {
+          "name": "Pack",
+          "value": "6 to 8 pre-twisted strands"
+        },
+        {
+          "name": "Style",
+          "value": "Kinky twist"
+        },
+        {
+          "name": "Can be dyed",
+          "value": "No"
+        }
+      ],
+      "images": [
+        "p-kinky-twist-crochet-hair-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "14 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 24
+        },
+        {
+          "option1": "18 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": 9000,
+          "stock": 19
+        }
+      ]
+    },
+    {
+      "name": "Lace Wig Shampoo",
+      "slug": "lace-wig-shampoo",
+      "category": "hair-care",
+      "description": "A gentle shampoo made for wigs and bundles. It cleans without drying out the hair. Use it every few weeks.",
+      "price": 6500,
+      "original_price": null,
+      "style": "Straight",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 95,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Key ingredients",
+          "value": "Aloe vera, glycerin"
+        },
+        {
+          "name": "How to use",
+          "value": "Wet hair, lather, rinse well"
+        },
+        {
+          "name": "Size",
+          "value": "250ml"
+        }
+      ],
+      "images": [
+        "p-lace-wig-shampoo-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 40
+        }
+      ]
+    },
+    {
+      "name": "Leave-in Conditioner Spray",
+      "slug": "leave-in-conditioner-spray",
+      "category": "hair-care",
+      "description": "A light spray that adds slip and softness to wigs, bundles and natural hair. Helps with tangles and leaves no heavy film.",
+      "price": 9500,
+      "original_price": 12500,
+      "style": "Curly",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": 4.6,
+      "units_sold": 121,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Key ingredients",
+          "value": "Shea butter, argan oil"
+        },
+        {
+          "name": "How to use",
+          "value": "Spray on damp or dry hair, comb through"
+        },
+        {
+          "name": "Size",
+          "value": "300ml"
+        }
+      ],
+      "images": [
+        "p-leave-in-conditioner-spray-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 35
+        }
+      ]
+    },
+    {
+      "name": "Edge Control Gel",
+      "slug": "edge-control-gel",
+      "category": "hair-care",
+      "description": "A strong hold edge gel for smooth, flat edges that stay put in Lagos heat. Does not flake when dry.",
+      "price": 4500,
+      "original_price": null,
+      "style": "Straight",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": 4.5,
+      "units_sold": 138,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Key ingredients",
+          "value": "Castor oil, beeswax"
+        },
+        {
+          "name": "How to use",
+          "value": "Apply to edges, brush down, tie for 5 minutes"
+        },
+        {
+          "name": "Size",
+          "value": "100ml"
+        }
+      ],
+      "images": [
+        "p-edge-control-gel-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 48
+        }
+      ]
+    },
+    {
+      "name": "Wig Grip Band Set",
+      "slug": "wig-grip-band-set",
+      "category": "tools-accessories",
+      "description": "A velvet grip band and a set of wig caps. The band keeps your wig from slipping and is soft on your edges.",
+      "price": 4500,
+      "original_price": 6000,
+      "style": "Straight",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 166,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Contents",
+          "value": "1 grip band, 4 wig caps"
+        },
+        {
+          "name": "Material",
+          "value": "Velvet, stretch mesh"
+        },
+        {
+          "name": "Colour",
+          "value": "Black and nude"
+        }
+      ],
+      "images": [
+        "p-wig-grip-band-set-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 55
+        }
+      ]
+    },
+    {
+      "name": "Detangling Brush",
+      "slug": "detangling-brush",
+      "category": "tools-accessories",
+      "description": "A flexible brush that glides through wet or dry hair without pulling. Safe for wigs, bundles and natural hair.",
+      "price": 2500,
+      "original_price": null,
+      "style": "Straight",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": 4.3,
+      "units_sold": 100,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Flexible nylon bristles"
+        },
+        {
+          "name": "Use",
+          "value": "Wet or dry hair"
+        },
+        {
+          "name": "Handle",
+          "value": "Non-slip grip"
+        }
+      ],
+      "images": [
+        "p-detangling-brush-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 50
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "product": "silk-straight-lace-wig",
+      "name": "Amaka E.",
+      "rating": 5,
+      "title": "Melted on the first try",
+      "body": "The lace blended into my skin with no fuss. I wore the 18 inch to a wedding and got asked where I bought it."
+    },
+    {
+      "product": "body-wave-frontal-wig",
+      "name": "Tunde B.",
+      "rating": 5,
+      "title": "Full and soft",
+      "body": "The waves are loose and thick right to the ends. Little shedding after three weeks. Delivery to Abuja took three days."
+    },
+    {
+      "product": "body-wave-frontal-wig",
+      "name": "Zainab M.",
+      "rating": 4,
+      "title": "Lovely, a bit heavy",
+      "body": "Beautiful hair. At 24 inch it is heavy after a long day, so I would pick 20 next time."
+    },
+    {
+      "product": "deep-wave-bob-wig",
+      "name": "Ngozi A.",
+      "rating": 5,
+      "title": "Easy bob",
+      "body": "Put it on in five minutes. The curls stay defined even after washing."
+    },
+    {
+      "product": "glueless-curly-wig",
+      "name": "Fatima S.",
+      "rating": 4,
+      "title": "Good for the heat",
+      "body": "No glue needed and it stayed on all day. The curls loosened a little after a wash but came back with leave-in."
+    },
+    {
+      "product": "straight-bundle-hair",
+      "name": "Chioma N.",
+      "rating": 5,
+      "title": "Three bundles, full head",
+      "body": "I bought three 18 inch and the weight was right. No tangling after a month."
+    },
+    {
+      "product": "curly-bundle-hair",
+      "name": "Bisi O.",
+      "rating": 3,
+      "title": "Okay but sheds a bit",
+      "body": "The curls are nice. It shed a little at first, then settled. I wanted it a bit fuller."
+    },
+    {
+      "product": "jumbo-braiding-hair",
+      "name": "Ifeoma U.",
+      "rating": 5,
+      "title": "Does not itch",
+      "body": "Finished my box braids in one afternoon. No itching and the ends sealed well."
+    },
+    {
+      "product": "pre-stretched-braiding-hair",
+      "name": "Seyi A.",
+      "rating": 4,
+      "title": "Saves time",
+      "body": "Tapered ends meant less work. Burgundy was a touch darker than the picture."
+    },
+    {
+      "product": "leave-in-conditioner-spray",
+      "name": "Halima Y.",
+      "rating": 5,
+      "title": "Light and smooth",
+      "body": "Lovely on my wig and my own hair. No build up and the smell is mild."
+    }
+  ]
+}
