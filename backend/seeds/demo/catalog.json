@@ -94,37 +94,37 @@
       "name": "Wigs",
       "slug": "wigs",
       "description": "Ready to wear lace wigs, from short bobs to long styles.",
-      "image": "cat-wigs.webp"
+      "image": "https://images.unsplash.com/photo-1724362180927-efc8dbf5eadb?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTR8fGJsYWNrJTIwd29tYW4lMjB3aWd8ZW58MXx8fHwxNzk0NDU2MDE3fDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "name": "Bundles",
       "slug": "bundles",
       "description": "Human hair bundles sold per piece in ten lengths.",
-      "image": "cat-bundles.webp"
+      "image": "https://images.unsplash.com/photo-1618566909269-a09202832ac6?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjR8fGhhaXIlMjBleHRlbnNpb25zJTIwYnVuZGxlc3xlbnwxfHx8fDE3OTQ0NTYwMzV8MA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "name": "Closures & Frontals",
       "slug": "closures-frontals",
       "description": "Lace closures and frontals to finish a sew in or a custom wig.",
-      "image": "cat-closures-frontals.webp"
+      "image": "https://images.unsplash.com/photo-1757866332579-9468cbf08cdd?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTB8fGhhaXIlMjBleHRlbnNpb25zJTIwYnVuZGxlc3xlbnwxfHx8fDE3OTQ0NTYwMzV8MA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "name": "Braiding Hair",
       "slug": "braiding-hair",
       "description": "Soft braiding hair for box braids, twists and crochet styles.",
-      "image": "cat-braiding-hair.webp"
+      "image": "https://images.unsplash.com/photo-1612459284970-e8f027596582?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTF8fGJyYWlkcyUyMGhhaXJzdHlsZSUyMGJsYWNrJTIwd29tYW58ZW58MXx8fHwxNzk0NDU2MDU0fDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "name": "Hair Care",
       "slug": "hair-care",
       "description": "Shampoo, conditioner and edge control for wigs and natural hair.",
-      "image": "cat-hair-care.webp"
+      "image": "https://images.unsplash.com/photo-1754735289896-1fa3c2d61255?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8OHx8aGFpciUyMGNhcmUlMjBwcm9kdWN0cyUyMHNoYW1wb298ZW58MXx8fHwxNzk0NDU2MTA2fDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "name": "Tools & Accessories",
       "slug": "tools-accessories",
       "description": "Caps, brushes, bands and stands for fitting and styling.",
-      "image": "cat-tools-accessories.webp"
+      "image": "https://images.unsplash.com/photo-1681841277721-4a7cb5e6b912?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8OXx8aGFpciUyMGJydXNoJTIwY29tYnxlbnwxfHx8fDE3OTQ0NTYxMjV8MA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     }
   ],
   "banners": [
@@ -133,21 +133,21 @@
       "subtitle": "Lace wigs in every length and texture. Pre-plucked, bleached knots and ready to wear the day it arrives.",
       "cta_text": "Shop wigs",
       "cta_url": "/category?cat=wigs",
-      "image": "banner-1.webp"
+      "image": "https://images.unsplash.com/photo-1683430431700-5d6a11b142b9?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTV8fGhhaXIlMjBleHRlbnNpb25zJTIwYnVuZGxlc3xlbnwxfHx8fDE3OTQ0NTYwMzV8MA&ixlib=rb-4.1.0&w=1600&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "title": "BUNDLES SOLD BY THE PIECE",
       "subtitle": "Straight, body wave, deep wave and curly. Pick your length and build your install.",
       "cta_text": "Shop bundles",
       "cta_url": "/category?cat=bundles",
-      "image": "banner-2.webp"
+      "image": "https://images.unsplash.com/photo-1614595198554-9e8ef1c50171?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8M3x8YmxhY2slMjB3b21hbiUyMGhhaXJ8ZW58MXwwfHx8MTc5NDQ1NjE0M3ww&ixlib=rb-4.1.0&w=1600&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "title": "BRAIDING HAIR FROM ₦4,500",
       "subtitle": "Soft, light braiding hair in six colours. Stock up for your next set.",
       "cta_text": "Shop braiding hair",
       "cta_url": "/category?cat=braiding-hair",
-      "image": "banner-3.webp"
+      "image": "https://images.unsplash.com/photo-1649261656779-59a7e8d4c39c?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTB8fGJsYWNrJTIwd29tYW4lMjBoYWlyfGVufDF8MHx8fDE3OTQ0NTYxNDN8MA&ixlib=rb-4.1.0&w=1600&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     }
   ],
   "products": [
@@ -192,8 +192,8 @@
         }
       ],
       "images": [
-        "p-silk-straight-lace-wig-1.webp",
-        "p-silk-straight-lace-wig-2.webp"
+        "https://images.unsplash.com/photo-1790862303790-107da0e91995?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mjd8fGhhaXIlMjBleHRlbnNpb25zJTIwYnVuZGxlc3xlbnwxfHx8fDE3OTQ0NTYwMzV8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1772631943182-40f7dd301ab1?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTN8fHN0cmFpZ2h0JTIwaGFpciUyMGJsYWNrJTIwd29tYW58ZW58MXx8fHwxNzk0NDU2MDg3fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -274,8 +274,8 @@
         }
       ],
       "images": [
-        "p-body-wave-frontal-wig-1.webp",
-        "p-body-wave-frontal-wig-2.webp"
+        "https://images.unsplash.com/photo-1645736279976-59f8fd22720c?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Nnx8YmxhY2slMjB3b21hbiUyMHdpZ3xlbnwxfHx8fDE3OTQ0NTYwMTd8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1724362180927-3e61a44bf175?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTV8fGJsYWNrJTIwd29tYW4lMjB3aWd8ZW58MXx8fHwxNzk0NDU2MDE3fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -345,7 +345,7 @@
         }
       ],
       "images": [
-        "p-deep-wave-bob-wig-1.webp"
+        "https://images.unsplash.com/photo-1648827966041-f773128fc993?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjZ8fGJsYWNrJTIwd29tYW4lMjB3aWd8ZW58MXx8fHwxNzk0NDU2MDE3fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -426,8 +426,8 @@
         }
       ],
       "images": [
-        "p-glueless-curly-wig-1.webp",
-        "p-glueless-curly-wig-2.webp"
+        "https://images.unsplash.com/photo-1579119159780-51419861f69f?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8NHx8Y3VybHklMjBoYWlyJTIwYmxhY2slMjB3b21hbnxlbnwxfHx8fDE3OTQ0NTYwNzF8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1661818302487-467621dd1c19?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTB8fGN1cmx5JTIwaGFpciUyMGJsYWNrJTIwd29tYW58ZW58MXx8fHwxNzk0NDU2MDcxfDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -497,7 +497,7 @@
         }
       ],
       "images": [
-        "p-kinky-coily-upart-wig-1.webp"
+        "https://images.unsplash.com/photo-1632765854612-9b02b6ec2b15?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MXx8YmxhY2slMjB3b21hbiUyMHdpZ3xlbnwxfHx8fDE3OTQ0NTYwMTd8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -567,8 +567,8 @@
         }
       ],
       "images": [
-        "p-straight-bundle-hair-1.webp",
-        "p-straight-bundle-hair-2.webp"
+        "https://images.unsplash.com/photo-1677746882421-2e3f45ccb9b1?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Nnx8aGFpciUyMGV4dGVuc2lvbnMlMjBidW5kbGVzfGVufDF8fHx8MTc5NDQ1NjAzNXww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1720264858026-df4b8b4012c8?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjV8fGhhaXIlMjBleHRlbnNpb25zJTIwYnVuZGxlc3xlbnwxfHx8fDE3OTQ0NTYwMzV8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -645,8 +645,8 @@
         }
       ],
       "images": [
-        "p-body-wave-bundle-hair-1.webp",
-        "p-body-wave-bundle-hair-2.webp"
+        "https://images.unsplash.com/photo-1685157725013-f878afd3166b?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8NXx8aGFpciUyMGV4dGVuc2lvbnMlMjBidW5kbGVzfGVufDF8fHx8MTc5NDQ1NjAzNXww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1715067877702-9a3b0faf4ba3?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mjh8fGhhaXIlMjBleHRlbnNpb25zJTIwYnVuZGxlc3xlbnwxfHx8fDE3OTQ0NTYwMzV8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -712,7 +712,7 @@
         }
       ],
       "images": [
-        "p-deep-wave-bundle-hair-1.webp"
+        "https://images.unsplash.com/photo-1783512785019-8bcb76a68d5a?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjF8fGhhaXIlMjBleHRlbnNpb25zJTIwYnVuZGxlc3xlbnwxfHx8fDE3OTQ0NTYwMzV8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -782,7 +782,7 @@
         }
       ],
       "images": [
-        "p-curly-bundle-hair-1.webp"
+        "https://images.unsplash.com/photo-1634746715098-6cafbc6a7a00?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTZ8fGhhaXIlMjBleHRlbnNpb25zJTIwYnVuZGxlc3xlbnwxfHx8fDE3OTQ0NTYwMzV8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -845,7 +845,7 @@
         }
       ],
       "images": [
-        "p-hd-lace-closure-4x4-1.webp"
+        "https://images.unsplash.com/photo-1663582816158-42354522fe15?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjV8fGJsYWNrJTIwd29tYW4lMjB3aWd8ZW58MXx8fHwxNzk0NDU2MDE3fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -908,8 +908,8 @@
         }
       ],
       "images": [
-        "p-body-wave-frontal-13x4-1.webp",
-        "p-body-wave-frontal-13x4-2.webp"
+        "https://images.unsplash.com/photo-1674092082722-6ce71c548da0?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTl8fGhhaXIlMjBleHRlbnNpb25zJTIwYnVuZGxlc3xlbnwxfHx8fDE3OTQ0NTYwMzV8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1745975980824-bc88bd400c78?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mnx8aGFpciUyMGV4dGVuc2lvbnMlMjBidW5kbGVzfGVufDF8fHx8MTc5NDQ1NjAzNXww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -975,7 +975,7 @@
         }
       ],
       "images": [
-        "p-deep-wave-closure-5x5-1.webp"
+        "https://images.unsplash.com/photo-1637463675679-d86b8f934b59?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mjh8fGJsYWNrJTIwd29tYW4lMjB3aWd8ZW58MXx8fHwxNzk0NDU2MDE3fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1038,7 +1038,7 @@
         }
       ],
       "images": [
-        "p-jumbo-braiding-hair-1.webp"
+        "https://images.unsplash.com/photo-1757866332394-a2581b937482?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8N3x8aGFpciUyMGV4dGVuc2lvbnMlMjBidW5kbGVzfGVufDF8fHx8MTc5NDQ1NjAzNXww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1115,7 +1115,7 @@
         }
       ],
       "images": [
-        "p-pre-stretched-braiding-hair-1.webp"
+        "https://images.unsplash.com/photo-1757866332992-723bf8d6169c?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTR8fGhhaXIlMjBleHRlbnNpb25zJTIwYnVuZGxlc3xlbnwxfHx8fDE3OTQ0NTYwMzV8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1181,7 +1181,7 @@
         }
       ],
       "images": [
-        "p-kinky-twist-crochet-hair-1.webp"
+        "https://images.unsplash.com/photo-1535588706069-af8f2d837332?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8NXx8YnJhaWRzJTIwaGFpcnN0eWxlJTIwYmxhY2slMjB3b21hbnxlbnwxfHx8fDE3OTQ0NTYwNTR8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1229,7 +1229,7 @@
         }
       ],
       "images": [
-        "p-lace-wig-shampoo-1.webp"
+        "https://images.unsplash.com/photo-1747858989102-cca0f4dc4a11?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MXx8aGFpciUyMGNhcmUlMjBwcm9kdWN0cyUyMHNoYW1wb298ZW58MXx8fHwxNzk0NDU2MTA2fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1270,7 +1270,7 @@
         }
       ],
       "images": [
-        "p-leave-in-conditioner-spray-1.webp"
+        "https://images.unsplash.com/photo-1632243575963-3143700087ed?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MXx8aGFpciUyMHNwcmF5JTIwYm90dGxlfGVufDF8fHx8MTc5NDUyNzgxMnww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1311,7 +1311,7 @@
         }
       ],
       "images": [
-        "p-edge-control-gel-1.webp"
+        "https://images.unsplash.com/photo-1758788390320-16e1f280cf49?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTh8fGhhaXIlMjBjYXJlJTIwcHJvZHVjdHMlMjBzaGFtcG9vfGVufDF8fHx8MTc5NDQ1NjEwNnww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1352,7 +1352,7 @@
         }
       ],
       "images": [
-        "p-wig-grip-band-set-1.webp"
+        "https://images.unsplash.com/photo-1760551937732-a86cccd851e7?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTF8fHZlbHZldCUyMGhlYWRiYW5kfGVufDF8fHx8MTc5NDUyODE2Mnww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1393,7 +1393,7 @@
         }
       ],
       "images": [
-        "p-detangling-brush-1.webp"
+        "https://images.unsplash.com/photo-1703353288357-c7efb9e6573a?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Nnx8aGFpciUyMGJydXNoJTIwY29tYnxlbnwxfHx8fDE3OTQ0NTYxMjV8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {

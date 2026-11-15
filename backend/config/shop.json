@@ -9,7 +9,7 @@
     "title": "HAIR THAT TURNS HEADS",
     "subtitle": "Wigs, bundles, closures and braiding hair in the lengths, colours and textures you love. Every order is confirmed before it ships.",
     "cta": "Shop Now",
-    "image": "/images/hero/hero.webp",
+    "image": "https://images.unsplash.com/photo-1495490140452-5a226aef25d4?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mnx8YmxhY2slMjB3b21hbiUyMGhhaXJ8ZW58MXwwfHx8MTc5NDQ1NjE0M3ww&ixlib=rb-4.1.0&w=1600&h=900&fit=crop&crop=entropy&q=80&fm=jpg",
     "cutout": false
   },
   "theme": {
@@ -61,11 +61,11 @@
       "Kinky"
     ],
     "images": {
-      "straight": "/images/styles/straight.webp",
-      "body wave": "/images/styles/body-wave.webp",
-      "deep wave": "/images/styles/deep-wave.webp",
-      "curly": "/images/styles/curly.webp",
-      "kinky": "/images/styles/kinky.webp"
+      "straight": "https://images.unsplash.com/photo-1692216203899-064d122f0655?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8OHx8c3RyYWlnaHQlMjBoYWlyJTIwYmxhY2slMjB3b21hbnxlbnwxfHx8fDE3OTQ0NTYwODd8MA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg",
+      "body wave": "https://images.unsplash.com/photo-1709912453702-8aa5b9a42640?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTJ8fGJsYWNrJTIwd29tYW4lMjB3aWd8ZW58MXx8fHwxNzk0NDU2MDE3fDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg",
+      "deep wave": "https://images.unsplash.com/photo-1783512784830-5259c034c507?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8OHx8aGFpciUyMGV4dGVuc2lvbnMlMjBidW5kbGVzfGVufDF8fHx8MTc5NDQ1NjAzNXww&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg",
+      "curly": "https://images.unsplash.com/photo-1585890483046-9461ebc1dace?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTN8fGN1cmx5JTIwaGFpciUyMGJsYWNrJTIwd29tYW58ZW58MXx8fHwxNzk0NDU2MDcxfDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg",
+      "kinky": "https://images.unsplash.com/photo-1793206822738-d2b16262c6db?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mjd8fGJsYWNrJTIwd29tYW4lMjB3aWd8ZW58MXx8fHwxNzk0NDU2MDE3fDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     }
   },
   "specs": {
